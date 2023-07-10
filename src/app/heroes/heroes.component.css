@@ -1,0 +1,55 @@
+h2{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+.heroes-title{
+    font-size: 2rem;
+    padding:5px;
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+}
+body{
+    width: 50%;
+    text-align: center;
+}
+ul {
+    list-style: none;
+}
+li{
+    text-align: center;
+}
+li:nth-child(1){
+    background-color: orange;
+}
+li:nth-child(2){
+    background-color: purple;
+}
+li:nth-child(3){
+    background-color: red;
+}
+li:nth-child(4){
+    background-color: cadetblue;
+}
+li:nth-child(5){
+    background-color: yellow;
+}
+li:nth-child(6){
+    background-color: coral;
+}
+li:nth-child(7){
+    background-color: green;
+}
+li:nth-child(8){
+    background-color: cyan;
+}
+li:nth-child(9){
+    background-color: deeppink;
+}
+li:nth-child(10){
+    background-color: dodgerblue;
+}
+button{
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+}
