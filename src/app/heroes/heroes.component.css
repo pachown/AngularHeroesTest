@@ -65,33 +65,33 @@
   align-self: center;
 }
 
-li:nth-child(1){
+li:nth-child(10n+1){
     background-color: orange;
 }
-li:nth-child(2){
+li:nth-child(10n+2){
     background-color: purple;
 }
-li:nth-child(3){
+li:nth-child(10n+3){
     background-color: red;
 }
-li:nth-child(4){
+li:nth-child(10n+4){
     background-color: cadetblue;
 }
-li:nth-child(5){
+li:nth-child(10n+5){
     background-color: yellow;
 }
-li:nth-child(6){
+li:nth-child(10n+6){
     background-color: coral;
 }
-li:nth-child(7){
+li:nth-child(10n+7){
     background-color: green;
 }
-li:nth-child(8){
+li:nth-child(10n+8){
     background-color: cyan;
 }
-li:nth-child(9){
+li:nth-child(10n+9){
     background-color: deeppink;
 }
-li:nth-child(10){
+li:nth-child(10n+0){
     background-color: dodgerblue;
 }
